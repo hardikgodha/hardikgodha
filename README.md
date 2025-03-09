@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]9https:/hardigodha.io)
 <h1 align="center">Hi 👋, I'm hardik godha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding"width="400" src="https://img.freepik.com/free-vector/it-job-concept-illustration_114360-27000.jpg?ga=GA1.1.126463140.1741456891&semt=ais_hybrid">
+<img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxg9aN2yFinyrKHcEc_IZ0_4CweZL9ynRnQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikgodha&label=Profile%20views&color=0e75b6&style=flat" alt="hardikgodha" /> </p>
 

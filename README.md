@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]9https:/hardigodha.io)
+[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm hardik godha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhss8Z4uGCl_1mNk88BF8kZSYr3wyk3N7Cw&s">
